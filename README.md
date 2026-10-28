@@ -12,4 +12,4 @@
 
 - Portfolio: ()
 
-PD: If you are only searching source code and projects of I, skip 'books' repo because it only has literarian scripts made by me
+PD: If you are only searching source code and projects of I, skip 'art' repo because it only has artistical work made by me
